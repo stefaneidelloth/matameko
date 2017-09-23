@@ -1,0 +1,1266 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448"
+   height="1052.3622"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.48.2 r9819"
+   version="1.0"
+   sodipodi:docname="Wertequadrate_2.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective99" />
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lstart"
+       style="overflow:visible">
+      <path
+         id="path3197"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+    <linearGradient
+       y2="19.756813"
+       x2="115.85607"
+       y1="19.756813"
+       x1="84.141449"
+       gradientTransform="translate(27.28093,-87.857819)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient8331"
+       xlink:href="#linearGradient5862"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="19.756813"
+       x2="115.85607"
+       y1="19.756813"
+       x1="84.141449"
+       gradientTransform="translate(27.28093,-87.857819)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient8060"
+       xlink:href="#linearGradient5862"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="19.756813"
+       x2="115.85607"
+       y1="19.756813"
+       x1="84.141449"
+       gradientTransform="translate(-61.81746,-89.419286)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient8058"
+       xlink:href="#linearGradient5862"
+       inkscape:collect="always" />
+    <marker
+       style="overflow:visible"
+       id="marker2634"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path2636" />
+    </marker>
+    <inkscape:perspective
+       id="perspective2632"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       id="linearGradient5822">
+      <stop
+         id="stop5824"
+         offset="0"
+         style="stop-color:#421d24;stop-opacity:1;" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0.49803922;"
+         offset="0.5"
+         id="stop5830" />
+      <stop
+         id="stop5826"
+         offset="1"
+         style="stop-color:#000000;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5840">
+      <stop
+         style="stop-color:#7e634f;stop-opacity:0.49803922;"
+         offset="0"
+         id="stop5848" />
+      <stop
+         id="stop5850"
+         offset="0.75"
+         style="stop-color:#7e634f;stop-opacity:0.77419353;" />
+      <stop
+         style="stop-color:#7e634f;stop-opacity:0.12156863;"
+         offset="0.875"
+         id="stop5852" />
+      <stop
+         id="stop5854"
+         offset="0.9375"
+         style="stop-color:#7e634f;stop-opacity:0.76774192;" />
+      <stop
+         id="stop5844"
+         offset="1"
+         style="stop-color:#7e634f;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5862">
+      <stop
+         id="stop5864"
+         offset="0"
+         style="stop-color:#bf9559;stop-opacity:1;" />
+      <stop
+         style="stop-color:#9e8f7a;stop-opacity:1;"
+         offset="0.19384405"
+         id="stop5870" />
+      <stop
+         id="stop5872"
+         offset="0.45838982"
+         style="stop-color:#584f44;stop-opacity:1;" />
+      <stop
+         style="stop-color:#9e8f7a;stop-opacity:1;"
+         offset="0.77055383"
+         id="stop5874" />
+      <stop
+         id="stop5866"
+         offset="1"
+         style="stop-color:#bf9559;stop-opacity:1;" />
+    </linearGradient>
+    <inkscape:perspective
+       id="perspective2930"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2958"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2986"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3014"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3014-4"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3014-2"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3014-27"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3014-6"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3014-61"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3014-615"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3014-60"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3014-1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3014-14"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3014-10"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3557"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3579"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4025"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4083"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.71731956"
+     inkscape:cx="350.51735"
+     inkscape:cy="504.22793"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     width="744.09449px"
+     height="1052.3622px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1138"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 59.221612,88.798307 L 246.6026,88.950658 C 254.29274,88.929613 261.71193,95.48241 261.76417,103.96028 L 261.8189,291.22242 C 261.76568,299.15367 253.9968,306.40265 246.5597,306.47976 L 59.347787,306.43907 C 51.014832,306.38402 44.429936,299.83777 44.174342,291.28515 L 44.416209,103.99084 C 44.278643,95.913389 51.146152,88.941211 59.221612,88.798307 z"
+       id="path3260"
+       sodipodi:nodetypes="ccccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="54.965206"
+       y="979.20355"
+       id="text8455"><tspan
+         sodipodi:role="line"
+         id="tspan8457"
+         x="54.965206"
+         y="979.20355">www.matameko.de</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 278.21368,88.764002 L 465.59466,88.916353 C 473.2848,88.895308 480.70399,95.448105 480.75623,103.92597 L 480.81096,291.18811 C 480.75774,299.11936 472.98886,306.36834 465.55176,306.44545 L 278.33985,306.40476 C 270.0069,306.34971 263.422,299.80346 263.16641,291.25084 L 263.40827,103.95653 C 263.27071,95.879084 270.13822,88.906906 278.21368,88.764002 z"
+       id="path3264"
+       sodipodi:nodetypes="ccccccccc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 497.23786,88.865621 L 684.61885,89.017972 C 692.30899,88.996927 699.72818,95.549724 699.78042,104.02759 L 699.83515,291.28973 C 699.78193,299.22098 692.01305,306.46996 684.57595,306.54707 L 497.36404,306.50638 C 489.03108,306.45133 482.44618,299.90508 482.19059,291.35246 L 482.43246,104.05815 C 482.29489,95.980703 489.1624,89.008525 497.23786,88.865621 z"
+       id="path3266"
+       sodipodi:nodetypes="ccccccccc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 59.189518,307.88979 L 246.57049,308.04214 C 254.26063,308.0211 261.67982,314.57389 261.73206,323.05176 L 261.78679,510.31391 C 261.73357,518.24516 253.96469,525.49414 246.52759,525.57125 L 59.315688,525.53056 C 50.982738,525.47551 44.397838,518.92926 44.142248,510.37664 L 44.384108,323.08232 C 44.246548,315.00487 51.114058,308.03269 59.189518,307.88979 z"
+       id="path3268"
+       sodipodi:nodetypes="ccccccccc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;text-anchor:middle;text-align:center"
+       d="M 59.189524,526.81232 L 246.57051,526.96467 C 254.26065,526.94363 261.67984,533.49642 261.73208,541.97429 L 261.78681,729.23643 C 261.73359,737.16768 253.96471,744.41666 246.52761,744.49377 L 59.315694,744.45308 C 50.982744,744.39803 44.397844,737.85178 44.142254,729.29916 L 44.384114,542.00485 C 44.246554,533.9274 51.114064,526.95522 59.189524,526.81232 z"
+       id="path3270"
+       sodipodi:nodetypes="ccccccccc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 497.23786,307.78816 L 684.61885,307.94051 C 692.30899,307.91947 699.72818,314.47226 699.78042,322.95013 L 699.83515,510.21227 C 699.78193,518.14352 692.01305,525.3925 684.57595,525.46961 L 497.36404,525.42892 C 489.03108,525.37387 482.44619,518.82762 482.19059,510.275 L 482.43246,322.98069 C 482.29489,314.90324 489.1624,307.93106 497.23786,307.78816 z"
+       id="path3272"
+       sodipodi:nodetypes="ccccccccc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 278.21368,307.88981 L 465.59467,308.04216 C 473.28481,308.02111 480.704,314.57391 480.75624,323.05178 L 480.81097,510.31392 C 480.75775,518.24517 472.98887,525.49415 465.55177,525.57126 L 278.33986,525.53057 C 270.0069,525.47552 263.42201,518.92927 263.16641,510.37665 L 263.40828,323.08234 C 263.27071,315.00489 270.13822,308.03271 278.21368,307.88981 z"
+       id="path3274"
+       sodipodi:nodetypes="ccccccccc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;text-anchor:middle;text-align:center"
+       d="M 278.21368,526.91398 L 465.59466,527.06634 C 473.2848,527.04529 480.70399,533.59809 480.75623,542.07596 L 480.81096,729.3381 C 480.75774,737.26935 472.98886,744.51833 465.55176,744.59544 L 278.33986,744.55475 C 270.0069,744.4997 263.422,737.95345 263.16641,729.40083 L 263.40828,542.10652 C 263.27071,534.02907 270.13822,527.05689 278.21368,526.91398 z"
+       id="path3276"
+       sodipodi:nodetypes="ccccccccc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;text-anchor:middle;text-align:center"
+       d="M 497.23784,526.91395 L 684.61883,527.0663 C 692.30897,527.04525 699.72816,533.59805 699.7804,542.07592 L 699.83513,729.33806 C 699.78191,737.26931 692.01303,744.51829 684.57593,744.5954 L 497.36401,744.55471 C 489.03106,744.49966 482.44616,737.95341 482.19057,729.40079 L 482.43244,542.10648 C 482.29487,534.02903 489.16238,527.05685 497.23784,526.91395 z"
+       id="path3278"
+       sodipodi:nodetypes="ccccccccc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 278.21368,745.93811 L 465.59467,746.09046 C 473.28481,746.06942 480.704,752.62221 480.75624,761.10008 L 480.81097,948.36222 C 480.75775,956.29347 472.98887,963.54245 465.55177,963.61956 L 278.33986,963.57887 C 270.0069,963.52382 263.42201,956.97757 263.16641,948.42495 L 263.40828,761.13064 C 263.27071,753.05319 270.13822,746.08101 278.21368,745.93811 z"
+       id="path3282"
+       sodipodi:nodetypes="ccccccccc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 497.23785,745.93812 L 684.61884,746.09047 C 692.30898,746.06942 699.72817,752.62222 699.78041,761.10009 L 699.83514,948.36223 C 699.78192,956.29348 692.01304,963.54246 684.57594,963.61957 L 497.36403,963.57888 C 489.03107,963.52383 482.44618,956.97758 482.19058,948.42496 L 482.43245,761.13065 C 482.29488,753.0532 489.16239,746.08102 497.23785,745.93812 z"
+       id="path3284"
+       sodipodi:nodetypes="ccccccccc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 59.189508,745.93813 L 246.57049,746.09048 C 254.26063,746.06944 261.67982,752.62223 261.73206,761.1001 L 261.78679,948.36224 C 261.73357,956.29349 253.96469,963.54247 246.52759,963.61958 L 59.315678,963.57889 C 50.982728,963.52384 44.397828,956.97759 44.142238,948.42497 L 44.384098,761.13066 C 44.246538,753.05321 51.114048,746.08103 59.189508,745.93813 z"
+       id="path3350"
+       sodipodi:nodetypes="ccccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="96.554504"
+       y="165.34242"
+       id="text2916"><tspan
+         sodipodi:role="line"
+         id="tspan2918"
+         x="96.554504"
+         y="165.34242"><tspan
+           style="font-size:10px;text-align:center;text-anchor:middle"
+           id="tspan2920">Durchsetzungs-</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="96.554504"
+         y="177.84242"
+         id="tspan3593"><tspan
+           style="font-size:10px;text-align:center;text-anchor:middle"
+           id="tspan3595">vermögen</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="169.73172"
+       y="179.7809"
+       id="text2916-1"><tspan
+         sodipodi:role="line"
+         id="tspan2918-7"
+         x="169.73172"
+         y="179.7809"><tspan
+           style="font-size:10px"
+           id="tspan2920-4">Rücksicht</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="100.3045"
+       y="222.95323"
+       id="text2916-1-0"><tspan
+         sodipodi:role="line"
+         id="tspan2918-7-9"
+         x="100.3045"
+         y="222.95323"><tspan
+           style="font-size:10px;text-align:center;text-anchor:middle"
+           id="tspan2920-4-4">rücksichtslose</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="100.3045"
+         y="235.45323"
+         id="tspan3597"><tspan
+           style="font-size:10px;text-align:center;text-anchor:middle"
+           id="tspan3599">Ellenbogen-</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="100.3045"
+         y="247.95323"
+         id="tspan3601"><tspan
+           style="font-size:10px;text-align:center;text-anchor:middle"
+           id="tspan3603">Mentalität</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="202.01688"
+       y="222.95323"
+       id="text2916-1-8"><tspan
+         sodipodi:role="line"
+         id="tspan2918-7-8"
+         x="202.01688"
+         y="222.95323"><tspan
+           style="font-size:10px;text-align:center;text-anchor:middle"
+           id="tspan2920-4-2">Selbst-</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="202.01688"
+         y="235.45323"
+         id="tspan3605"><tspan
+           style="font-size:10px;text-align:center;text-anchor:middle"
+           id="tspan3607">verleugnung</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="290.04364"
+       y="177.84242"
+       id="text2916-4"><tspan
+         sodipodi:role="line"
+         id="tspan2918-5"
+         x="290.04364"
+         y="177.84242"><tspan
+           style="font-size:10px"
+           id="tspan2920-5">Spontaneität</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="388.72379"
+       y="179.7809"
+       id="text2916-1-1"><tspan
+         sodipodi:role="line"
+         id="tspan2918-7-7"
+         x="388.72379"
+         y="179.7809"><tspan
+           style="font-size:10px"
+           id="tspan2920-4-1">Besonnenheit</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="325.10223"
+       y="222.95323"
+       id="text2916-1-0-1"><tspan
+         sodipodi:role="line"
+         x="326.69403"
+         y="222.95323"
+         style="font-size:10px;text-align:center;text-anchor:middle"
+         id="tspan3615">vorschnelle </tspan><tspan
+         sodipodi:role="line"
+         x="325.10223"
+         y="235.45323"
+         style="font-size:10px;text-align:center;text-anchor:middle"
+         id="tspan3619">Impulsivität</tspan><tspan
+         sodipodi:role="line"
+         x="325.10223"
+         y="247.95323"
+         id="tspan3375"
+         style="font-size:10px;text-align:center;text-anchor:middle" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="419.44644"
+       y="222.95323"
+       id="text2916-1-8-7"><tspan
+         sodipodi:role="line"
+         id="tspan2918-7-8-6"
+         x="419.44644"
+         y="222.95323"
+         style="font-size:10px;text-align:center;text-anchor:middle">alles auf die</tspan><tspan
+         sodipodi:role="line"
+         x="421.03824"
+         y="235.45323"
+         id="tspan3623"
+         style="font-size:10px;text-align:center;text-anchor:middle">Goldwaage </tspan><tspan
+         sodipodi:role="line"
+         x="419.44644"
+         y="247.95323"
+         id="tspan3379"
+         style="font-size:10px;text-align:center;text-anchor:middle">legen</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="502.05121"
+       y="177.84242"
+       id="text2916-2"><tspan
+         sodipodi:role="line"
+         id="tspan2918-3"
+         x="502.05121"
+         y="177.84242"><tspan
+           style="font-size:10px"
+           id="tspan2920-2">Pragmatismus</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="607.74792"
+       y="177.84242"
+       id="text2916-1-2"><tspan
+         sodipodi:role="line"
+         id="tspan2918-7-1"
+         x="607.74792"
+         y="177.84242"><tspan
+           style="font-size:10px"
+           id="tspan2920-4-6">Prinzipientreue</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="535.43011"
+       y="222.95323"
+       id="text2916-1-0-8"><tspan
+         sodipodi:role="line"
+         x="535.43011"
+         y="222.95323"
+         id="tspan3643"
+         style="font-size:10px;text-align:center;text-anchor:middle">Opportunismus</tspan><tspan
+         sodipodi:role="line"
+         x="537.02191"
+         y="235.45323"
+         style="font-size:10px;text-align:center;text-anchor:middle"
+         id="tspan3649">&quot;Fähnchen </tspan><tspan
+         sodipodi:role="line"
+         x="535.43011"
+         y="247.95323"
+         style="font-size:10px;text-align:center;text-anchor:middle"
+         id="tspan3651">im Wind&quot;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="639.09558"
+       y="222.95323"
+       id="text2916-1-8-1"><tspan
+         sodipodi:role="line"
+         id="tspan2918-7-8-8"
+         x="639.09558"
+         y="222.95323"
+         style="font-size:10px;text-align:center;text-anchor:middle">ideologische</tspan><tspan
+         sodipodi:role="line"
+         x="639.09558"
+         y="235.45323"
+         id="tspan3391"
+         style="font-size:10px;text-align:center;text-anchor:middle">Starrheit</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="98.737122"
+       y="371.9339"
+       id="text2916-7"><tspan
+         sodipodi:role="line"
+         id="tspan2918-9"
+         x="98.737122"
+         y="371.9339"
+         style="font-size:10px;text-align:center;text-anchor:middle">Autonomie</tspan><tspan
+         sodipodi:role="line"
+         x="100.32892"
+         y="384.4339"
+         id="tspan3653"
+         style="font-size:10px;text-align:center;text-anchor:middle">und </tspan><tspan
+         sodipodi:role="line"
+         x="98.737122"
+         y="396.9339"
+         id="tspan3399"
+         style="font-size:10px;text-align:center;text-anchor:middle">Verantwortung</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="200.24649"
+       y="361.37238"
+       id="text2916-1-3"><tspan
+         sodipodi:role="line"
+         id="tspan2918-7-12"
+         x="200.24649"
+         y="361.37238"
+         style="font-size:10px;text-align:center;text-anchor:middle">Bewusstheit</tspan><tspan
+         sodipodi:role="line"
+         x="201.83829"
+         y="373.87238"
+         style="font-size:10px;text-align:center;text-anchor:middle"
+         id="tspan3699">eigener </tspan><tspan
+         sodipodi:role="line"
+         x="200.24649"
+         y="386.37238"
+         style="font-size:10px;text-align:center;text-anchor:middle"
+         id="tspan4090">Bedürftig-</tspan><tspan
+         sodipodi:role="line"
+         x="200.24649"
+         y="398.87238"
+         style="font-size:10px;text-align:center;text-anchor:middle"
+         id="tspan4088">keit</tspan><tspan
+         sodipodi:role="line"
+         x="200.24649"
+         y="411.37238"
+         style="font-size:10px;text-align:center;text-anchor:middle"
+         id="tspan3705" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="103.21954"
+       y="442.04471"
+       id="text2916-1-0-3"><tspan
+         sodipodi:role="line"
+         id="tspan2918-7-9-4"
+         x="104.81134"
+         y="442.04471"
+         style="font-size:10px;text-align:center;text-anchor:middle">Verleugnung </tspan><tspan
+         sodipodi:role="line"
+         x="103.21954"
+         y="454.54471"
+         id="tspan3677"
+         style="font-size:10px;text-align:center;text-anchor:middle">der eigenen</tspan><tspan
+         sodipodi:role="line"
+         x="103.21954"
+         y="467.04471"
+         id="tspan3407"
+         style="font-size:10px;text-align:center;text-anchor:middle">Bedürfnisse</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="207.96414"
+       y="442.04471"
+       id="text2916-1-8-13"><tspan
+         sodipodi:role="line"
+         x="207.96414"
+         y="442.04471"
+         id="tspan3411"
+         style="font-size:10px;text-align:center;text-anchor:middle">Verleugnung</tspan><tspan
+         sodipodi:role="line"
+         x="207.96414"
+         y="454.54471"
+         style="font-size:10px;text-align:center;text-anchor:middle"
+         id="tspan3689">eigener Selbst-</tspan><tspan
+         sodipodi:role="line"
+         x="207.96414"
+         y="467.04471"
+         style="font-size:10px;text-align:center;text-anchor:middle"
+         id="tspan3523">hilfekräfte</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="325.39032"
+       y="373.87238"
+       id="text2916-79"><tspan
+         sodipodi:role="line"
+         id="tspan2918-31"
+         x="326.98212"
+         y="373.87238"
+         style="font-size:10px;text-align:center;text-anchor:middle">Schutz, </tspan><tspan
+         sodipodi:role="line"
+         x="326.98212"
+         y="386.37238"
+         id="tspan3711"
+         style="font-size:10px;text-align:center;text-anchor:middle">Fürsorge </tspan><tspan
+         sodipodi:role="line"
+         x="325.39032"
+         y="398.87238"
+         style="font-size:10px;text-align:center;text-anchor:middle"
+         id="tspan3717">&quot;festhalten&quot;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="416.32144"
+       y="373.87238"
+       id="text2916-1-86"><tspan
+         sodipodi:role="line"
+         x="416.32144"
+         y="373.87238"
+         id="tspan3719"
+         style="font-size:10px;text-align:center;text-anchor:middle">Heraus-</tspan><tspan
+         sodipodi:role="line"
+         x="417.91324"
+         y="386.37238"
+         style="font-size:10px;text-align:center;text-anchor:middle"
+         id="tspan3729">forderung </tspan><tspan
+         sodipodi:role="line"
+         x="416.32144"
+         y="398.87238"
+         style="font-size:10px;text-align:center;text-anchor:middle"
+         id="tspan3727">&quot;loslassen&quot;</tspan><tspan
+         sodipodi:role="line"
+         x="416.32144"
+         y="411.37238"
+         style="font-size:10px;text-align:center;text-anchor:middle"
+         id="tspan3725" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="325.18524"
+       y="443.57303"
+       id="text2916-1-0-2"><tspan
+         sodipodi:role="line"
+         id="tspan2918-7-9-8"
+         x="325.18524"
+         y="443.57303"
+         style="font-size:10px;text-align:center;text-anchor:middle">Über-</tspan><tspan
+         sodipodi:role="line"
+         x="325.18524"
+         y="456.07303"
+         id="tspan3731"
+         style="font-size:10px;text-align:center;text-anchor:middle">Behütung</tspan><tspan
+         sodipodi:role="line"
+         x="325.18524"
+         y="468.57303"
+         id="tspan3545"
+         style="font-size:10px;text-align:center;text-anchor:middle">&quot;erdrücken&quot;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="425.51578"
+       y="443.57303"
+       id="text2916-1-8-2"><tspan
+         sodipodi:role="line"
+         x="425.51578"
+         y="443.57303"
+         id="tspan3419"
+         style="font-size:10px;text-align:center;text-anchor:middle">Überforderung</tspan><tspan
+         sodipodi:role="line"
+         x="425.51578"
+         y="456.07303"
+         style="font-size:10px;text-align:center;text-anchor:middle"
+         id="tspan3746">&quot;allein lassen&quot;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="542.06097"
+       y="398.87238"
+       id="text2916-5"><tspan
+         sodipodi:role="line"
+         x="542.06097"
+         y="398.87238"
+         id="tspan3423"
+         style="font-size:10px;text-align:center;text-anchor:middle">Anteilnahme</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="638.87585"
+       y="396.9339"
+       id="text2916-1-06"><tspan
+         sodipodi:role="line"
+         x="638.87585"
+         y="396.9339"
+         id="tspan3427"
+         style="font-size:10px;text-align:center;text-anchor:middle">Abgrenzung</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="548.01312"
+       y="442.04471"
+       id="text2916-1-0-9"><tspan
+         sodipodi:role="line"
+         x="549.60492"
+         y="442.04471"
+         id="tspan3431"
+         style="font-size:10px;text-align:center;text-anchor:middle">starkes </tspan><tspan
+         sodipodi:role="line"
+         x="548.01312"
+         y="454.54471"
+         style="font-size:10px;text-align:center;text-anchor:middle"
+         id="tspan3756">Mit-Leiden</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="647.40613"
+       y="442.04471"
+       id="text2916-1-8-4"><tspan
+         sodipodi:role="line"
+         x="648.99792"
+         y="442.04471"
+         id="tspan3762"
+         style="font-size:10px;text-align:center;text-anchor:middle">abgestumpfte </tspan><tspan
+         sodipodi:role="line"
+         x="647.40613"
+         y="454.54471"
+         style="font-size:10px;text-align:center;text-anchor:middle"
+         id="tspan3768">Gleichgültigkeit</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="102.21857"
+       y="590.85645"
+       id="text2916-8"><tspan
+         sodipodi:role="line"
+         x="102.21857"
+         y="590.85645"
+         style="font-size:10px;text-align:center;text-anchor:middle"
+         id="tspan3784">konfrontative</tspan><tspan
+         sodipodi:role="line"
+         x="102.21857"
+         y="603.35645"
+         id="tspan3435"
+         style="font-size:10px;text-align:center;text-anchor:middle">Selbst-</tspan><tspan
+         sodipodi:role="line"
+         x="102.21857"
+         y="615.85645"
+         style="font-size:10px;text-align:center;text-anchor:middle"
+         id="tspan3778">behauptung</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="192.71024"
+       y="605.29492"
+       id="text2916-1-37"><tspan
+         sodipodi:role="line"
+         x="192.71024"
+         y="605.29492"
+         id="tspan3445"
+         style="font-size:10px;text-align:center;text-anchor:middle">Respekt</tspan><tspan
+         sodipodi:role="line"
+         x="192.71024"
+         y="617.79492"
+         style="font-size:10px;text-align:center;text-anchor:middle"
+         id="tspan3808">erweisen</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="106.17853"
+       y="660.39105"
+       id="text2916-1-0-13"><tspan
+         sodipodi:role="line"
+         x="106.17853"
+         y="660.39105"
+         id="tspan3439"
+         style="font-size:10px;text-align:center;text-anchor:middle">arrogante</tspan><tspan
+         sodipodi:role="line"
+         x="106.17853"
+         y="672.89105"
+         style="font-size:10px;text-align:center;text-anchor:middle"
+         id="tspan3790">Einschüchterung</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="202.69559"
+       y="660.96722"
+       id="text2916-1-8-40"><tspan
+         sodipodi:role="line"
+         x="202.69559"
+         y="660.96722"
+         id="tspan3457"
+         style="font-size:10px;text-align:center;text-anchor:middle">Anbiederung</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="341.3327"
+       y="617.93652"
+       id="text2916-42"><tspan
+         sodipodi:role="line"
+         x="341.3327"
+         y="617.93652"
+         id="tspan3469"
+         style="font-size:10px;text-align:center;text-anchor:middle">Kritik</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="424.79312"
+       y="603.35645"
+       id="text2916-1-372"><tspan
+         sodipodi:role="line"
+         x="424.79312"
+         y="603.35645"
+         style="font-size:10px;text-align:center;text-anchor:middle"
+         id="tspan3481">Anerkennung,</tspan><tspan
+         sodipodi:role="line"
+         x="424.79312"
+         y="615.85645"
+         style="font-size:10px;text-align:center;text-anchor:middle"
+         id="tspan3824">Würdigung</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="320.24872"
+       y="660.96722"
+       id="text2916-1-0-6"><tspan
+         sodipodi:role="line"
+         x="320.24872"
+         y="660.96722"
+         id="tspan3487"
+         style="font-size:10px;text-align:center;text-anchor:middle">Herabsetzung</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="422.33707"
+       y="660.96722"
+       id="text2916-1-8-20"><tspan
+         sodipodi:role="line"
+         x="422.33707"
+         y="660.96722"
+         id="tspan3491"
+         style="font-size:10px;text-align:center;text-anchor:middle">Schmeichelei</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="548.70648"
+       y="617.79492"
+       id="text2916-71"><tspan
+         sodipodi:role="line"
+         x="548.70648"
+         y="617.79492"
+         id="tspan3541"
+         style="font-size:10px;text-align:center;text-anchor:middle">Direktheit</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="619.745"
+       y="617.79492"
+       id="text2916-1-33"><tspan
+         sodipodi:role="line"
+         x="619.745"
+         y="617.79492"
+         id="tspan3499"
+         style="font-size:10px;text-align:center;text-anchor:middle">Takt</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="539.27289"
+       y="660.96722"
+       id="text2916-1-0-81"><tspan
+         sodipodi:role="line"
+         x="539.27289"
+         y="660.96722"
+         id="tspan3503"
+         style="font-size:10px;text-align:center;text-anchor:middle">Herabsetzung</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="643.25574"
+       y="660.96722"
+       id="text2916-1-8-0"><tspan
+         sodipodi:role="line"
+         id="tspan2918-7-8-3"
+         x="643.25574"
+         y="660.96722"
+         style="font-size:10px;text-align:center;text-anchor:middle">diplomatische</tspan><tspan
+         sodipodi:role="line"
+         x="643.25574"
+         y="673.46722"
+         id="tspan3849"
+         style="font-size:10px;text-align:center;text-anchor:middle">Schnörkel-</tspan><tspan
+         sodipodi:role="line"
+         x="643.25574"
+         y="685.96722"
+         id="tspan3507"
+         style="font-size:10px;text-align:center;text-anchor:middle">haftigkeit,</tspan><tspan
+         sodipodi:role="line"
+         x="643.25574"
+         y="698.46722"
+         style="font-size:10px;text-align:center;text-anchor:middle"
+         id="tspan3863">ohne</tspan><tspan
+         sodipodi:role="line"
+         x="644.84753"
+         y="710.96722"
+         style="font-size:10px;text-align:center;text-anchor:middle"
+         id="tspan3867">&quot;Klartext&quot; </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="102.92657"
+       y="836.92072"
+       id="text2916-25"><tspan
+         sodipodi:role="line"
+         id="tspan2918-094"
+         x="102.92657"
+         y="836.92072"><tspan
+           style="font-size:10px;text-align:center;text-anchor:middle"
+           id="tspan2920-78">Du-Botschaft</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="202.71024"
+       y="836.92072"
+       id="text2916-1-35"><tspan
+         sodipodi:role="line"
+         x="202.71024"
+         y="836.92072"
+         id="tspan3537"
+         style="font-size:10px;text-align:center;text-anchor:middle">Ich-Botschaft</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="99.904114"
+       y="880.09302"
+       id="text2916-1-0-4"><tspan
+         sodipodi:role="line"
+         x="99.904114"
+         y="880.09302"
+         id="tspan3511"
+         style="font-size:10px;text-align:center;text-anchor:middle">aggresive</tspan><tspan
+         sodipodi:role="line"
+         x="99.904114"
+         y="892.59302"
+         style="font-size:10px;text-align:center;text-anchor:middle"
+         id="tspan3880">Fremdanklage</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="206.40652"
+       y="880.09302"
+       id="text2916-1-8-8"><tspan
+         sodipodi:role="line"
+         id="tspan2918-7-8-9"
+         x="206.40652"
+         y="880.09302"
+         style="font-size:10px;text-align:center;text-anchor:middle">depressive</tspan><tspan
+         sodipodi:role="line"
+         x="206.40652"
+         y="892.59302"
+         id="tspan3525"
+         style="font-size:10px;text-align:center;text-anchor:middle">Selbt-</tspan><tspan
+         sodipodi:role="line"
+         x="206.40652"
+         y="905.09302"
+         style="font-size:10px;text-align:center;text-anchor:middle"
+         id="tspan3894">beschuldigung</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="319.99969"
+       y="799.42072"
+       id="text2916-3"><tspan
+         sodipodi:role="line"
+         id="tspan2918-98"
+         x="319.99969"
+         y="799.42072"
+         style="font-size:10px;text-align:center;text-anchor:middle">Kooperations-</tspan><tspan
+         sodipodi:role="line"
+         x="321.59149"
+         y="811.92072"
+         id="tspan3900"
+         style="font-size:10px;text-align:center;text-anchor:middle">fähigkeit, </tspan><tspan
+         sodipodi:role="line"
+         x="321.59149"
+         y="824.42072"
+         style="font-size:10px;text-align:center;text-anchor:middle"
+         id="tspan3906">Bestehen im </tspan><tspan
+         sodipodi:role="line"
+         x="319.99969"
+         y="836.92072"
+         style="font-size:10px;text-align:center;text-anchor:middle"
+         id="tspan3908">Miteinander</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="427.70816"
+       y="797.48224"
+       id="text2916-1-08"><tspan
+         sodipodi:role="line"
+         id="tspan2918-7-77"
+         x="427.70816"
+         y="797.48224"
+         style="font-size:10px;text-align:center;text-anchor:middle">Konkurrenz-</tspan><tspan
+         sodipodi:role="line"
+         x="429.29996"
+         y="809.98224"
+         id="tspan3916"
+         style="font-size:10px;text-align:center;text-anchor:middle">fähigkeit, </tspan><tspan
+         sodipodi:role="line"
+         x="429.29996"
+         y="822.48224"
+         style="font-size:10px;text-align:center;text-anchor:middle"
+         id="tspan3922">Bestehen im </tspan><tspan
+         sodipodi:role="line"
+         x="427.70816"
+         y="834.98224"
+         style="font-size:10px;text-align:center;text-anchor:middle"
+         id="tspan3924">Gegeneinander</tspan><tspan
+         sodipodi:role="line"
+         x="427.70816"
+         y="847.48224"
+         id="tspan3914" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="327.0993"
+       y="880.09302"
+       id="text2916-1-0-83"><tspan
+         sodipodi:role="line"
+         id="tspan2918-7-9-7"
+         x="328.6911"
+         y="880.09302"><tspan
+           style="font-size:10px;text-align:center;text-anchor:middle"
+           id="tspan2920-4-4-10">naive </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="327.0993"
+         y="892.59302"
+         id="tspan3930"><tspan
+           style="font-size:10px;text-align:center;text-anchor:middle"
+           id="tspan3932">Humaitäts-</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="327.0993"
+         y="905.09302"
+         id="tspan3926"><tspan
+           style="font-size:10px;text-align:center;text-anchor:middle"
+           id="tspan3928">illusion</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="413.79214"
+       y="880.09302"
+       id="text2916-1-8-73"><tspan
+         sodipodi:role="line"
+         id="tspan2918-7-8-49"
+         x="413.79214"
+         y="880.09302"><tspan
+           style="font-size:10px;text-align:center;text-anchor:middle"
+           id="tspan2920-4-2-65">ruinöse</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="413.79214"
+         y="892.59302"
+         id="tspan3934"><tspan
+           style="font-size:10px;text-align:center;text-anchor:middle"
+           id="tspan3936">Rivalitäts-</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="413.79214"
+         y="905.09302"
+         id="tspan3938"><tspan
+           style="font-size:10px;text-align:center;text-anchor:middle"
+           id="tspan3940">haltung</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="547.44672"
+       y="822.48224"
+       id="text2916-9"><tspan
+         sodipodi:role="line"
+         id="tspan2918-96"
+         x="547.44672"
+         y="822.48224"><tspan
+           style="font-size:10px;text-align:center;text-anchor:middle"
+           id="tspan2920-83">Welt-</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="547.44672"
+         y="834.98224"
+         id="tspan3942"><tspan
+           style="font-size:10px;text-align:center;text-anchor:middle"
+           id="tspan3944">gestaltung</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="640.01355"
+       y="809.98224"
+       id="text2916-1-4"><tspan
+         sodipodi:role="line"
+         id="tspan2918-7-84"
+         x="640.01355"
+         y="809.98224"><tspan
+           style="font-size:10px;text-align:center;text-anchor:middle"
+           id="tspan2920-4-99">Reifung auf</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="640.01355"
+         y="822.48224"
+         id="tspan3946"><tspan
+           style="font-size:10px;text-align:center;text-anchor:middle"
+           id="tspan3948">dem inneren</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="640.01355"
+         y="834.98224"
+         id="tspan3950"><tspan
+           style="font-size:10px;text-align:center;text-anchor:middle"
+           id="tspan3952">Weg</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="541.25531"
+       y="880.09302"
+       id="text2916-1-0-25"><tspan
+         sodipodi:role="line"
+         id="tspan2918-7-9-53"
+         x="541.25531"
+         y="880.09302"><tspan
+           style="font-size:10px;text-align:center;text-anchor:middle"
+           id="tspan2920-4-4-3">sich selbst</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="541.25531"
+         y="892.59302"
+         id="tspan3954"><tspan
+           style="font-size:10px;text-align:center;text-anchor:middle"
+           id="tspan3956">verfehlender</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="541.25531"
+         y="905.09302"
+         id="tspan3958"><tspan
+           style="font-size:10px;text-align:center;text-anchor:middle"
+           id="tspan3960">Leistungs-</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="541.25531"
+         y="917.59302"
+         id="tspan3962"><tspan
+           style="font-size:10px;text-align:center;text-anchor:middle"
+           id="tspan3964">funktionär</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="642.65027"
+       y="880.09302"
+       id="text2916-1-4-8"><tspan
+         sodipodi:role="line"
+         id="tspan2918-7-84-0"
+         x="642.65027"
+         y="880.09302"
+         style="font-size:10px;text-align:center;text-anchor:middle">&quot;Nabelschau-</tspan><tspan
+         sodipodi:role="line"
+         x="642.65027"
+         y="892.59302"
+         id="tspan4057"
+         style="font-size:10px;text-align:center;text-anchor:middle">Aristokrat&quot;</tspan><tspan
+         sodipodi:role="line"
+         x="642.65027"
+         y="905.09302"
+         id="tspan4061"
+         style="font-size:10px;text-align:center;text-anchor:middle">im Ghetto der</tspan><tspan
+         sodipodi:role="line"
+         x="642.65027"
+         y="917.59302"
+         id="tspan3950-6"
+         style="font-size:10px;text-align:center;text-anchor:middle">Innerlichkeit</tspan></text>
+  </g>
+</svg>
