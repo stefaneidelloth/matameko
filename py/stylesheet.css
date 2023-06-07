@@ -1,0 +1,53 @@
+.page {
+  font-family: "Calibri";
+}
+
+.question-card {
+  position: relative;
+  width: 200px;
+  height: 235px;
+  border: 2px solid #0000aa;
+  border-radius: 30px;
+  padding: 20px;
+}
+
+.question-text {
+  font-weight: bold;
+}
+
+.answer-card {
+  position: relative;
+  text-align: center;
+  verticaL-align: middle;
+  width: 200px;
+  height: 235px;
+  border: 2px double #aa0000;
+  border-radius: 30px;
+  padding: 0px;
+}
+
+.answer-text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  font-weight: bold;
+  transform: translate(-50%, -85%);
+  width: 90%;
+}
+
+.branding {
+  position: absolute;
+  bottom: 25px;
+  right: 25px;
+}
+
+.branding-text {
+  display: inline;
+  vertical-align: middle;
+}
+
+.branding-image {
+  display: inline;
+  width: 30px;
+  vertical-align: middle;
+}
