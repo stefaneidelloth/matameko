@@ -2,25 +2,25 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="210mm"
    height="297mm"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
-   sodipodi:docname="vier_Schritte.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   sodipodi:docname="VierSchritte.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.1"
    inkscape:export-filename="I:\GFK\vier_Schritte.png"
    inkscape:export-xdpi="300.061"
-   inkscape:export-ydpi="300.061">
+   inkscape:export-ydpi="300.061"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs4">
     <inkscape:perspective
@@ -522,16 +522,19 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="303.97674"
-     inkscape:cy="764.62933"
+     inkscape:cx="304.05592"
+     inkscape:cy="361.12954"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     inkscape:window-width="1618"
-     inkscape:window-height="1028"
-     inkscape:window-x="1734"
+     inkscape:window-width="1920"
+     inkscape:window-height="1129"
+     inkscape:window-x="1912"
      inkscape:window-y="-8"
      showgrid="false"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -550,7 +553,7 @@
      id="layer1">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';fill:#00add9;fill-opacity:0.99215686;stroke:none"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';fill:#00add9;fill-opacity:0.992157;stroke:none"
        x="60.310337"
        y="149.50504"
        id="text2160"><tspan
@@ -558,10 +561,10 @@
          id="tspan2162"
          x="60.310337"
          y="149.50504"
-         style="font-size:40px;line-height:1.25;fill:#00add9;fill-opacity:0.99215686;stroke:none">B<tspan
-   style="font-size:14px;fill:#00add9;fill-opacity:0.99215686;stroke:none"
+         style="font-size:40px;line-height:1.25;fill:#00add9;fill-opacity:0.992157;stroke:none">B<tspan
+   style="font-size:14px;fill:#00add9;fill-opacity:0.992157;stroke:none"
    id="tspan2164">eobachtung                     <tspan
-   style="fill:#00add9;fill-opacity:0.99215686"
+   style="fill:#00add9;fill-opacity:0.992157"
    id="tspan4131"><tspan
      style="fill:#000000"
      id="tspan4220">vs. Evaluation </tspan></tspan></tspan></tspan></text>
@@ -582,7 +585,7 @@
    id="tspan4141">vs. Diagnose, Urteil</tspan></tspan></tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';fill:#008b00;fill-opacity:0.99215686;stroke:none"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';fill:#008b00;fill-opacity:0.992157;stroke:none"
        x="60.310337"
        y="389.73044"
        id="text3142"><tspan
@@ -590,10 +593,10 @@
          id="tspan3144"
          x="60.310337"
          y="389.73044"
-         style="font-size:40px;line-height:1.25;fill:#008b00;fill-opacity:0.99215686;stroke:none">B<tspan
-   style="font-size:14px;fill:#008b00;fill-opacity:0.99215686;stroke:none"
+         style="font-size:40px;line-height:1.25;fill:#008b00;fill-opacity:0.992157;stroke:none">B<tspan
+   style="font-size:14px;fill:#008b00;fill-opacity:0.992157;stroke:none"
    id="tspan3146">edürfnis                           <tspan
-   style="fill:#000000;fill-opacity:0.99215686"
+   style="fill:#000000;fill-opacity:0.992157"
    id="tspan4143">vs. Strategie</tspan></tspan></tspan></text>
     <text
        xml:space="preserve"
@@ -651,7 +654,7 @@
          id="tspan4161"
          x="68.970985"
          y="296.07648"
-         style="font-size:12px;line-height:1.25">- froh, traurig, wütent, ...</tspan><tspan
+         style="font-size:12px;line-height:1.25">- froh, traurig, wütend, ...</tspan><tspan
          sodipodi:role="line"
          x="68.970985"
          y="311.07648"
@@ -770,7 +773,7 @@
          x="283.70786"
          y="341.07648"
          id="tspan4205"
-         style="font-size:12px;line-height:1.25">&quot;Ich habe das Gefühl, dass...&quot;</tspan></text>
+         style="font-size:12px;line-height:1.25">&quot;Ich habe das Gefühl, dass ...&quot;</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none"
